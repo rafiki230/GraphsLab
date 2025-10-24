@@ -1,0 +1,39 @@
+{
+  "meta": {
+    "project": "Lab02",
+    "topic": "Suicide rates (top 5 states) and household gun ownership",
+    "notes": "Suicide rates are 2023 crude rates per 100,000 (CDC WONDER via SAVE). Gun ownership is RAND's estimated average % of adults in gun-owning households (2007–2016).",
+    "sources": [
+      "CDC WONDER via SAVE (2023 state suicide rates)",
+      "RAND Gun Policy in America: State-Level Estimates of Household Firearm Ownership (avg 2007–2016)"
+    ],
+    "last_updated": "2025-10-22"
+  },
+  "records": [
+    {
+      "state": "Alaska",
+      "suicide_rate_2023_per_100k": 28.1,
+      "gun_ownership_household_pct_rand_2007_2016_avg": 59
+    },
+    {
+      "state": "Montana",
+      "suicide_rate_2023_per_100k": 27.4,
+      "gun_ownership_household_pct_rand_2007_2016_avg": 64
+    },
+    {
+      "state": "Wyoming",
+      "suicide_rate_2023_per_100k": 26.9,
+      "gun_ownership_household_pct_rand_2007_2016_avg": 59
+    },
+    {
+      "state": "Idaho",
+      "suicide_rate_2023_per_100k": 23.4,
+      "gun_ownership_household_pct_rand_2007_2016_avg": 53
+    },
+    {
+      "state": "New Mexico",
+      "suicide_rate_2023_per_100k": 23.1,
+      "gun_ownership_household_pct_rand_2007_2016_avg": 39
+    }
+  ]
+}
